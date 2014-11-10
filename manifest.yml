@@ -1,0 +1,8 @@
+---
+applications:
+- name: cf-php-alex
+  memory: 128M
+  instances: 1
+  host: cf-php-demo-alex
+  domain: cfapps.io
+  path: .
