@@ -6,3 +6,5 @@ applications:
   host: cf-php-demo-alex
   domain: cfapps.io
   path: .
+  services:
+  -mynewrelic
